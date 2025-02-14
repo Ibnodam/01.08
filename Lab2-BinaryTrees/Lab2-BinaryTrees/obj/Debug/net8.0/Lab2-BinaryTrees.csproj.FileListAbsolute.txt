@@ -1,0 +1,15 @@
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\bin\Debug\net8.0\Lab2-BinaryTrees.exe
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\bin\Debug\net8.0\Lab2-BinaryTrees.deps.json
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\bin\Debug\net8.0\Lab2-BinaryTrees.runtimeconfig.json
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\bin\Debug\net8.0\Lab2-BinaryTrees.dll
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\bin\Debug\net8.0\Lab2-BinaryTrees.pdb
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\obj\Debug\net8.0\Lab2-BinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\obj\Debug\net8.0\Lab2-BinaryTrees.AssemblyInfoInputs.cache
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\obj\Debug\net8.0\Lab2-BinaryTrees.AssemblyInfo.cs
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\obj\Debug\net8.0\Lab2-BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\obj\Debug\net8.0\Lab2-BinaryTrees.sourcelink.json
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\obj\Debug\net8.0\Lab2-BinaryTrees.dll
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\obj\Debug\net8.0\refint\Lab2-BinaryTrees.dll
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\obj\Debug\net8.0\Lab2-BinaryTrees.pdb
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\obj\Debug\net8.0\Lab2-BinaryTrees.genruntimeconfig.cache
+C:\Users\odinaev-v\source\repos\Lab2-BinaryTrees\Lab2-BinaryTrees\obj\Debug\net8.0\ref\Lab2-BinaryTrees.dll
