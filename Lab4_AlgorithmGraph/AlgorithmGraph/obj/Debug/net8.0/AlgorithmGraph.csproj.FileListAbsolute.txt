@@ -1,0 +1,14 @@
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\bin\Debug\net8.0\AlgorithmGraph.exe
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\bin\Debug\net8.0\AlgorithmGraph.deps.json
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\bin\Debug\net8.0\AlgorithmGraph.runtimeconfig.json
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\bin\Debug\net8.0\AlgorithmGraph.dll
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\bin\Debug\net8.0\AlgorithmGraph.pdb
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\obj\Debug\net8.0\AlgorithmGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\obj\Debug\net8.0\AlgorithmGraph.AssemblyInfoInputs.cache
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\obj\Debug\net8.0\AlgorithmGraph.AssemblyInfo.cs
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\obj\Debug\net8.0\AlgorithmGraph.csproj.CoreCompileInputs.cache
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\obj\Debug\net8.0\AlgorithmGraph.dll
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\obj\Debug\net8.0\refint\AlgorithmGraph.dll
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\obj\Debug\net8.0\AlgorithmGraph.pdb
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\obj\Debug\net8.0\AlgorithmGraph.genruntimeconfig.cache
+C:\Users\valij\source\repos\AlgorithmGraph\AlgorithmGraph\obj\Debug\net8.0\ref\AlgorithmGraph.dll
